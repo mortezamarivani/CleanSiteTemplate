@@ -48,3 +48,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 //npm i bootstrap-icons
 //npm install --save vue-toastification@next
 //npm install leaflet@^1.9.3
+//npm install vue@3 @chenfengyuan/vue-countdown@2
+//npm install @formkit/nuxt
+//npm install pinia @pinia/nuxt
